@@ -52,6 +52,4 @@
 
 + In App Purchase
 
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
